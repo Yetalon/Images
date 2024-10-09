@@ -1,2 +1,2 @@
 # Images
-ai generated images for project use
+ai generated images and other images for project use
